@@ -1,4 +1,4 @@
-module github.com/jasondbornemamn/go-twitter
+module github.com/jasondborneman/go-twitter
 
 go 1.12
 
